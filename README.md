@@ -19,9 +19,6 @@ After planning, I began to conduct exploratory data analysis (EDA). This is wher
 
 Following the EDA, I crafted visual representations to identify data correlations. The goal was to uncover underlying patterns and relationships in the data.
 
-![newplot](https://github.com/bhawanjot23/DomesticViolence-DataAnalysis/assets/107430962/78ba1916-e3ab-40a6-8d6d-f41f77f3d317)
-
-
 ### Execute 
 
 During the execution phase, I'll present my findings to the primary stakeholders who stand to gain from this study. Based on the research, one major suggestion would be prioritizing real-world interventions in regions with heightened gun-related domestic violence. Additionally, there's a noticeable lack of data in certain areas; hence, gathering and disseminating this data is crucial for effective policy formulation. 
